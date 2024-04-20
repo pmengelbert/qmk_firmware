@@ -1,9 +1,6 @@
 // Configure the global tapping term (default: 200ms)
 #define TAPPING_TERM 220
 
-// Enable rapid switch from tap to hold, disables double tap hold auto-repeat.
-#define QUICK_TAP_TERM 0
-
 #define PERMISSIVE_HOLD
 
 /* #define DUMMY_MOD_NEUTRALIZER_KEYCODE KC_F18 */
